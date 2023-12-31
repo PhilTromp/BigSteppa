@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "235411080738",
+    "project_id": "stepperauth",
+    "storage_bucket": "stepperauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235411080738:android:189bd83473c960d8642c7b",
+        "android_client_info": {
+          "package_name": "com.example.big_steppa_philipp_oleg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIr8H8v9OIL3qNrLIfUXqmjimU-0VHVgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235411080738:android:ce5225480460fc5e642c7b",
+        "android_client_info": {
+          "package_name": "com.example.big_stepper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIr8H8v9OIL3qNrLIfUXqmjimU-0VHVgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235411080738:android:13c063b9b8c250b1642c7b",
+        "android_client_info": {
+          "package_name": "com.example.big_stepper_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIr8H8v9OIL3qNrLIfUXqmjimU-0VHVgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235411080738:android:4a3dd9d86ddfcf28642c7b",
+        "android_client_info": {
+          "package_name": "com.example.schrittzaehler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIr8H8v9OIL3qNrLIfUXqmjimU-0VHVgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235411080738:android:66e1537e05f44acb642c7b",
+        "android_client_info": {
+          "package_name": "com.example.stepper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIr8H8v9OIL3qNrLIfUXqmjimU-0VHVgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
